@@ -1,0 +1,42 @@
+
+h1 {
+    color:red;
+	text-align: center;
+  }
+ 
+ 
+ .G
+ {
+	 height: 400px;
+ width: 500px;
+
+ }
+
+body  {
+	text-align: center;
+	
+}
+
+.image
+{
+	 display: flex;
+	 
+}
+
+
+.r
+{
+	width: 500px;
+}
+
+.couleur
+{
+	background: green;
+	
+}
+
+
+.taille
+{
+	font-size: 30px;
+	color: black;
